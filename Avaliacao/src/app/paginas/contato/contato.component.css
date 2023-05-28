@@ -1,0 +1,11 @@
+.banner {
+    background-image: url(https://observatoriodegames.uol.com.br/wp-content/uploads/2020/07/Valorant-Sage.png);
+    height: 500px;
+    background-position: center top;
+    background-size: cover;
+}
+h1{
+
+    text-align: center;
+
+}
